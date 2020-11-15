@@ -2,9 +2,11 @@
 
 Certification platform for storing and categorization of experts' hard & soft skills used to unite community in emergency situations. 
 
+![](https://server.vlzhr.top/hosted/-572393y_slide2.jpg)
+
 ## Steun Application
 
-`Application for the citizens who want to unite to a safe community.`
+`Application for the citizens who want to collaborate into a safe community.`
 
 Play around it: https://game.certificado.one
 
