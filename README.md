@@ -1,6 +1,6 @@
 # Steun Protocol
 
-Certification platform for storing and categorization of experts' hard & soft skills. 
+Certification platform for storing and categorization of experts' hard & soft skills used to unite community in emergency situations. 
 
 ## Steun Application
 
