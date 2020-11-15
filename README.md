@@ -4,7 +4,7 @@ Certification platform for storing and categorization of experts' hard & soft sk
 
 ## Steun Application
 
-`Application for the citizens.`
+`Application for the citizens who want to unite to a safe community.`
 
 Play around it: https://game.certificado.one
 
@@ -14,7 +14,7 @@ Watch [App 2.0 MVP](https://www.figma.com/proto/Ml7ffwSuTX3gjuLy6k2ssu/INCLUSIVE
 
 ## Steun Certification
 
-`Certification tool for validating experts.`
+`Certification tool for validating experts by voting.`
 
 Play around it: https://steun.certificado.one
 
@@ -22,13 +22,13 @@ Source code: https://github.com/rieset/odyssey-challenge-cert
 
 ## Steun for Dispatch Centers
 
-`Suitable tool to manage emergency situations`
+`Suitable tool to manage emergency situations in the city.`
 
 Source code: https://github.com/rieset/odyssey-challenge-geo
 
 ## Steun Smart Contract
 
-`Transparent and anonymous storage for certificates`
+`Transparent and anonymous storage for certificates based on Waves blockchain.`
 
 Source code: https://github.com/rieset/odyssey-challenge-cert/blob/master/contracts/certificates.ride
 
